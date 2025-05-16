@@ -20,7 +20,7 @@ I'm a passionate Full-Stack Developer with expertise in building scalable web ap
 - 🌱 I’m learning **Kubernetes and Advanced Docker**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **JavaScript, React, Node.js, and Databases**
-- 📫 How to reach me: **yashodipwani@example.com**
+- 📫 How to reach me: **yashodipwani172004@gmail.com**
 - ⚡ Fun fact: I love photography and gaming!
 
 ---
