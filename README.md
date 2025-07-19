@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Innovator | Frontend, Backend & Database Architect</h3>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Yashodip1445">
     <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
   <a href="https://twitter.com/yourtwitter">
